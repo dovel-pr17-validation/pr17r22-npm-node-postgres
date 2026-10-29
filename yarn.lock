@@ -6832,10 +6832,10 @@ ohash@^2.0.10, ohash@^2.0.11:
   resolved "https://registry.yarnpkg.com/ohash/-/ohash-2.0.11.tgz#60b11e8cff62ca9dee88d13747a5baa145f5900b"
   integrity sha512-RdR9FQrFwNBNXAr4GixM8YaRZRJ5PUWbKYbE5eOsrwAjJW0q2REGcf79oYPsLyskQCZG1PLN+S/K1V00joZAoQ==
 
-okay@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/okay/-/okay-0.3.0.tgz#de2840310df9805d6c0506d8dbb8d9ba09129d28"
-  integrity sha512-9Jtrbe/gncY/uRSRYD+VbaTiLuDX+Zm6uRg06itpkU82ZDcuOv+sWgRRvQXU3n7ZSHgltWHUw9EFkLsN4nEOeQ==
+okay@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/okay/-/okay-1.0.0.tgz#1a3846e7b78c7e18a7a93aa088f0cab7ecece83d"
+  integrity sha512-5/tIGJkNZgTgraoL2ovrkqSm5onNtpDLPoZfTOEjcaRxWOId5ZXLijvHltXsAaFRS0JMUokFLazo5DvNhVLxUQ==
   dependencies:
     sliced "0.0.5"
 
